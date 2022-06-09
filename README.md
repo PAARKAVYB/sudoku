@@ -1,4 +1,4 @@
-# SUDOKO SOLVER
+# SUDOKU SOLVER
 
 ## AIM:
 
