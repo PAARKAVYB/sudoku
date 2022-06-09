@@ -11,7 +11,7 @@ One algorithm to solve Sudoku puzzles is the backtracking algorithm. Essentially
 ## DESIGN STEPS:
 
 ### Step 1:
-import required packages.Define the Linear Programming problem.
+Import required packages.Define the Linear Programming problem.
 
 ### Step 2:
 Set the objective function and grid structure.
@@ -32,6 +32,7 @@ Check if an optimal result is found.
 
 /*
 Name: Paarkavy B
+
 Reg. No: 212221230072
 */
 
